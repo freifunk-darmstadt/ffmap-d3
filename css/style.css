@@ -88,3 +88,13 @@ header h1 a {
 #sidebar .toggler:active {
   background-color: #FFDD20;
 }
+
+#gpsbutton {
+  float: right;
+  background-color: #ffcc01;
+  color: #333;
+  font-weight: bold;
+  font-size: 75%;
+  margin: 6px;
+  border: none;
+}
