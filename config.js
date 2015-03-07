@@ -36,7 +36,7 @@ define("config", function () {
         }
       }
     }
-  };
+  }
 
   return config
-});
+})
