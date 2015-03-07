@@ -32,7 +32,8 @@ define("config", function () {
           type: "osm",
           attribution: "© <a href=\"http://osm.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Open Database License",
           opacity: 0.7,
-          maxZoom: 19
+          maxZoom: 19,
+          maxNativeZoom: 18
         }
       }
     }
